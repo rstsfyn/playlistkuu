@@ -1,12 +1,11 @@
 # playlistkuu
 
-A new Flutter project.
+Playlistku merupakan sebuah aplikasi yang dikembangkan untuk membuat player music dengan mudah seru, dengan berbagai keunggulan didalamnya.
 
-## Getting Started
+<a href="https://www.figma.com/design/y2Jx4jP8GSMBUYmNxqfu3U/Untitled?node-id=1-5&t=mjuct6dBfBYtHay7-4"><img src="/assets/cover.png"></a>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+Mau ikut kontribusi ngembagin ini?
+Email : codingankuu@gmail.com
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
